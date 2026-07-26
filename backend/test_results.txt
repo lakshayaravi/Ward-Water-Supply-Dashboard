@@ -1,0 +1,29 @@
+TEST CASE 1
+------------
+Input : 520
+Result : Stored Successfully
+Status : PASS
+
+TEST CASE 2
+------------
+Input : Missing Flow
+Result : Missing
+Status : PASS
+
+TEST CASE 3
+------------
+Input : 25000
+Result : Out of Range
+Status : PASS
+
+TEST CASE 4
+------------
+Input : 777,777,777
+Result : Sensor Fault
+Status : PASS
+
+TEST CASE 5
+------------
+Network Disconnected
+Result : React shows Error Message
+Status : PASS
